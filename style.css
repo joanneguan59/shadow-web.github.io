@@ -1,0 +1,201 @@
+*{
+    font-family: "Times New Roman", Times, serif;
+}
+
+body{
+   background-color: #e8f8fc
+  }
+
+p.a (
+    color: black;
+)
+
+p{
+    color: grey;
+}
+
+#navbar{
+    overflow: hidden;
+    background-color: black;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: #ffa64d;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+
+.button {
+    border: solid;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .button1:hover {
+    background-color: #b7b7b7;
+    color: black;
+  }
+
+  .logo{
+    left: 80px;
+    position: relative;
+    top: 50px;
+  }
+
+  .twitter{
+    left: 80px;
+    position: relative;
+    top: 50px;
+  }
+
+/* Hello Members */
+  .box1 {
+    background-color: #ffffff;
+    float: left;
+    height: 400px;
+    width: 950px;
+    border: none;
+    clear: both;
+    position: relative;
+    left: 80px;
+    padding: 50px;
+  }
+
+  /*News & Events */
+  .box2 {
+    background-color: #ffffff;
+    float: left;
+    height: 240px;
+    width: 950px;
+    border: none;
+    clear: both;
+    position: relative;
+    left: 80px;
+    padding: 50px;
+  }
+
+   /*Blue spacing*/
+  .box3 {
+    background-color: #e8f8fc;
+    float: left;
+    height: 5px;
+    width: 950px;
+    border: none;
+    clear: both;
+    position: relative;
+    left: 80px;
+    padding: 50px;
+  }
+
+  /*Footer*/
+.box4{
+    background-color: #f2f2f2;
+    float: left;
+    height: 150px;
+    width: 1120px;
+    border: none;
+    clear: both;
+    position: relative;
+    padding: 50px;
+    text-align: center;
+}
+
+/*Board Description*/
+.box5{
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    float: left;
+    height: 2220px;
+    width: 1120px;
+    border: none;
+    clear: both;
+    position: relative;
+    padding: 50px;
+}
+
+/*Board Intro*/
+.box6{
+    background-color: #ffffff;
+    float: left;
+    height: 600px;
+    width: 950px;
+    border: none;
+    clear: both;
+    position: relative;
+    left: 80px;
+    padding: 50px;
+}
+
+/*Join Description*/
+.box7{
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    float: left;
+    height: 800px;
+    width: 1120px;
+    border: none;
+    clear: both;
+    position: relative;
+    padding: 50px;
+}
+/*Join Intro*/
+.box8{
+    background-color: #ffffff;
+    float: left;
+    height: 200px;
+    width: 950px;
+    border: none;
+    clear: both;
+    position: relative;
+    left: 80px;
+    padding: 50px;
+}
+/*Home Dark*/
+.box9{
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    float: left;
+    height: 1050px;
+    width: 1120px;
+    border: none;
+    clear: both;
+    position: relative;
+    padding: 50px;
+}
+
+  h2.news{
+    color: orange;
+    text-align: center;
+  }
+
+ h2.about{
+    text-align: center;
+}
+    
+p.footer{
+    font-size: 12px;
+    text-align: center;
+    color: #8c8c8c;
+}
+
+
+p.contact{
+    color: #8c8c8c;
+}
+
+h2{
+    text-align: center;
+}
